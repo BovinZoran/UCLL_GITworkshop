@@ -2,4 +2,8 @@ blablabla
 
 lalala
 
+<<<<<<< HEAD
 aoufhauohgadi
+=======
+rererere
+>>>>>>> e7a647fbdc6ebf39c2acfcf8a5ba58cb98f4dc9b
